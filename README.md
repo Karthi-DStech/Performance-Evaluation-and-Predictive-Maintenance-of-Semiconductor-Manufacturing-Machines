@@ -1,0 +1,2 @@
+# Performance-Evaluation-and-Predictive-Maintenance-of-Semiconductor-Manufacturing-Machines
+This project focuses on the performance evaluation and predictive maintenance of semiconductor manufacturing machines using over 600 sensor features. By performing classification and identifying the most valuable sensors, the project aims to reduce model variance, optimise feature selection and improves the accuracy of predictive maintenance.
